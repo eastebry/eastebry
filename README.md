@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a security engineer currently working at Hashicorp. I've worked in a variety of different security domains including application security, detection and response, malware analysis, and infrastructure security.
+I'm a security engineer living in the Pacific Northwest. I've worked in a variety of different security domains including application security, detection and response, malware analysis, and infrastructure security.
 
 I love puzzles, and used to participate in a lot of CTF competitions. I also helped organize a few - working on both the challenge infrastructure and the challenges.
 
